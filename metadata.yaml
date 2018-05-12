@@ -1,0 +1,36 @@
+_repo: Out-of-the-Deep--Words-for-the-Sorrowful_20312
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kingsley, Charles
+    aliases:
+    - Kingsley, C. (Charles)
+    - Kingley, Charles
+    birthdate: 1819
+    deathdate: 1875
+    gutenberg_agent_id: '344'
+    url: http://www.gutenberg.org/2009/agents/344
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Kingsley
+  editor:
+    agent_name: Kingsley, Frances Eliza Grenfell
+    birthdate: 1814
+    deathdate: 1891
+    gutenberg_agent_id: '9226'
+    url: http://www.gutenberg.org/2009/agents/9226
+description: ''
+gutenberg_issued: '2007-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20312'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Consolation'
+title: 'Out of the Deep: Words for the Sorrowful'
+url: http://www.gutenberg.org/ebooks/20312
